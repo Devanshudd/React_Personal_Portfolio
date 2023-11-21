@@ -1,0 +1,119 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "src": "./img/react.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 2,
+      "src": "./img/nodejs.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 3,
+      "src": "./img/express.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 4,
+      "src": "./img/mongodb.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 5,
+      "src": "./img/js.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 6,
+      "src": "./img/ts.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 7,
+      "src": "./img/git.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 8,
+      "src": "./img/git1.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 9,
+      "src": "./img/mi.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 10,
+      "src": "./img/tail.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 11,
+      "src": "./img/py.png",
+      "title": "front-End",
+      "description": "abc"
+    },
+    {
+      "id": 12,
+      "src": "./img/nlp.png",
+      "title": "front-End",
+      "description": "abc"
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": 1,
+      "src": "./img/placeholder-image.png",
+      "title": "ProShop E-Commerce Platform ",
+      "description": "It is a full-featured shopping cart with PayPal & credit/debit payments with Stripe API. Front-end is designed with responsive UI for optimized website performance.This includes admin page to handle all details about orders as well.",
+      "link": "View In Github",
+      "link1": "Live Demo",
+      "href": "https://github.com/Devanshudd/E-commerce",
+      "href1": "https://github.com/Devanshudd/E-commerce"
+    },
+    {
+      "id": 2,
+      "src": "./img/placeholder-image-1.png",
+      "title": "Netflix App",
+      "description": "Movie info application built with vanilla JavaScript with TMDB API. This includes the most popular movies and TV shows with detail pages, a search box for movies and shows with full pagination and a slider for movies that are currently playing in theaters.",
+      "link": "View In Github",
+      "link1": "Live Demo",
+      "href": "https://github.com/Devanshudd/Netflix",
+      "href1": "https://devanshu-netflix.netlify.app/"
+    },
+    {
+      "id": 3,
+      "src": "./img/gym.png",
+      "title": "Gym Fintess App",
+      "description": "Created Gym Fitness App using React, MaterialUI, RapidAPI . Using different properites of materialui like box, stack and Typography and using rapidapi in order to get all those exercise data and youtube videos data as well.",
+      "link": "View In Github",
+      "link1": "Live Demo",
+      "href": "https://github.com/Devanshudd/Gym_Fitness_App",
+      "href1": "https://gymfitnessreact.netlify.app/"
+    },
+    {
+      "id": 4,
+      "src": "./img/placeholder-image-2.png",
+      "title": "Sentiment Analysis In Gujarati Language",
+      "description": "Created a Gujarati Language dataset(GDSA) with the help of tweepy libraries and also created a stopwords dictionary and a dictionary for positive as well as negative words which is used in classification algorithms to perform sentiment analysis in Gujarati language.",
+      "link": "View In Github",
+      "link1": "Live Demo",
+      "href": "https://github.com/Devanshudd/Sentiment-Analysis",
+      "href1": "https://github.com/Devanshudd/Sentiment-Analysis"
+    }
+  ]
+}
