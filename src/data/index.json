@@ -79,7 +79,7 @@
       "id": 1,
       "src": "./img/def.png",
       "title": "Gadget Galore",
-      "description": "It is a full-featured E-commerece shopping website with Payment gateway. For managing the entire content of app using Sanity, which  allows us to focus on developing the application without having to worry about the content, file storage, and databases",
+      "description": "It is a full-featured E-commerece shopping website with Payment gateway using stripe api.Sanity is use for  managing the entire content of app and it also allow us to focus on developing the application without having to worry about the content, file storage, and databases",
       "link": "View In Github",
       "link1": "Live Demo",
       "href": "https://github.com/Devanshudd/Ecommerce_Sanity_Stripe",
