@@ -275,10 +275,12 @@ h3 {
   font-weight: 400;
   line-height: 36px;
 }
-.hero--section--img {
+
+
+ .hero--section--img {
   background-color: var(--bg-shade);
   display: flex;
-}
+} 
 /* .hero--section--img {
   height: 42rem;
   width: 35rem;
