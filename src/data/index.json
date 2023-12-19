@@ -107,9 +107,10 @@
     },
     {
       "id": 4,
-      "src": "./img/gym.png",
+      "src": "./img/pot.png",
       "title": "React Portfolio",
-      "description": "Created Personal portfolio using React . Portfolio have many sections like about me, skills i have and projects with github repo links and hosting links as well.",
+      "description": "Created Personal portfolio using React . Portfolio have many sections like about me, skills i have and projects with github repo links and hosting links as well.It also contains contact forms and links of social media accounts as well.",
+      "link": "View In Github",
       "link1": "Live Demo",
       "href": "https://github.com/Devanshudd/React_Personal_Portfolio",
       "href1": "https://devanshureactportfolio.netlify.app/"
