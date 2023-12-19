@@ -77,13 +77,13 @@
   "portfolio": [
     {
       "id": 1,
-      "src": "./img/placeholder-image.png",
-      "title": "ProShop E-Commerce Platform ",
-      "description": "It is a full-featured shopping cart with PayPal & credit/debit payments with Stripe API. Front-end is designed with responsive UI for optimized website performance.This includes admin page to handle all details about orders as well.",
+      "src": "./img/def.png",
+      "title": "Gadget Galore",
+      "description": "It is a full-featured E-commerece shopping website with Payment gateway. For managing the entire content of app using Sanity, which  allows us to focus on developing the application without having to worry about the content, file storage, and databases",
       "link": "View In Github",
       "link1": "Live Demo",
-      "href": "https://github.com/Devanshudd/E-commerce",
-      "href1": "https://github.com/Devanshudd/E-commerce"
+      "href": "https://github.com/Devanshudd/Ecommerce_Sanity_Stripe",
+      "href1": "https://gadgetsgalore.vercel.app/"
     },
     {
       "id": 2,
@@ -107,6 +107,15 @@
     },
     {
       "id": 4,
+      "src": "./img/gym.png",
+      "title": "React Portfolio",
+      "description": "Created Personal portfolio using React . Portfolio have many sections like about me, skills i have and projects with github repo links and hosting links as well.",
+      "link1": "Live Demo",
+      "href": "https://github.com/Devanshudd/React_Personal_Portfolio",
+      "href1": "https://devanshureactportfolio.netlify.app/"
+    },
+    {
+      "id": 5,
       "src": "./img/placeholder-image-2.png",
       "title": "Sentiment Analysis In Gujarati Language",
       "description": "Created a Gujarati Language dataset(GDSA) with the help of tweepy libraries and also created a stopwords dictionary and a dictionary for positive as well as negative words which is used in classification algorithms to perform sentiment analysis in Gujarati language.",
